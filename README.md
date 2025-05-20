@@ -9,7 +9,7 @@
     <link rel="canonical" href="https://www.yourdomain.com/loan-calculators">
     
     <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-2920748587385137/8541270734" crossorigin="anonymous"></script>
 
     <style>
         :root {
@@ -200,7 +200,7 @@
     <div class="container">
         <!-- Header Ad -->
         <div class="ad-section">
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="1234567890"></ins>
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-app-pub-2920748587385137/8541270734" data-ad-slot="1234567890"></ins>
         </div>
 
         <h1>Ultimate Loan Calculator Suite</h1>
@@ -411,7 +411,7 @@
 
         <!-- Footer Ad -->
         <div class="ad-section">
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" data-ad-slot="0987654321"></ins>
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-app-pub-2920748587385137/8541270734" data-ad-slot="0987654321"></ins>
         </div>
     </div>
 
